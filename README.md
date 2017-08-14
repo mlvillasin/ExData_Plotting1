@@ -1,7 +1,7 @@
-Exploratory Graphs
-Goal: Examine how household energy usage varies over a 2-day period in February, 2007. 
-Task: Reconstruct the given plots below, all of which were constructed using the base plotting system.
-Data:	Individual household electric power consumption Data Set from the UC Irvine Machine Learning Repository. This contains measurements of electric power consumption in one household with a one-minute sampling rate over a period of almost 4 years. Different electrical quantities and some sub-metering values are available. The variables in the dataset are:
+##Exploratory Graphs
+##Goal: Examine how household energy usage varies over a 2-day period in February, 2007. 
+##Task: Reconstruct the given plots below, all of which were constructed using the base plotting system.
+##Data:	Individual household electric power consumption Data Set from the UC Irvine Machine Learning Repository. This contains measurements of electric power consumption in one household with a one-minute sampling rate over a period of almost 4 years. Different electrical quantities and some sub-metering values are available. The variables in the dataset are:
 1.	Date: Date in format dd/mm/yyyy 
 2.	Time: time in format hh:mm:ss 
 3.	Global_active_power: household global minute-averaged active power (in kilowatt) 
